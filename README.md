@@ -1,7 +1,7 @@
 
 ![mercury](https://github.com/user-attachments/assets/75d49c42-e83c-4e13-a902-60c44824baac)
 
-
+https://pubmed.ncbi.nlm.nih.gov/32030584/
 
 Here I share the code used in the scientific article I authored, the result of my master's degree. This study examined how soil mercury contamination affected the structure and functionality of rhizobacteria communities from Aeschynomene fluminensis and Polygonum acuminatum and how rhizobacteria mediate metal bioremediation. The strains were isolated using culture-dependent methods, identified through 16S rDNA gene sequencing, and characterized with respect to their functional traits related to plant growth promotion and resistance to metals and antibiotics. 
 Keywords: Bioaccumulation; Bioremediation; Enterobacter; Microbacterium; Rhizoremediation; Toxic metal.
