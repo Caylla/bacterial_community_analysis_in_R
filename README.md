@@ -1,4 +1,4 @@
-This repository contains R scripts and workflows for analyzing bacterial community data, focusing on statistical and ecological analyses. The analyses were performed using R 3.4.2 and various specialized packages for microbial ecology and data visualization.
+
 ![mercury](https://github.com/user-attachments/assets/75d49c42-e83c-4e13-a902-60c44824baac)
 
 https://pubmed.ncbi.nlm.nih.gov/32030584/
